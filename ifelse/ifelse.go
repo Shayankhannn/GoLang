@@ -32,7 +32,7 @@ func main(){
 		fmt.Println("Access granted")
 	}else {
 		fmt.Println("Access denied")
-	}
+	} 
 
 	// we can declare a variable in if else statement 
 
